@@ -220,8 +220,8 @@ body a:hover{
 }
 .banner-info{
 	background: #001a33;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #ffffe6, #ffcb0b);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #ffffe6, #ffcb0b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to bottom, #ffffe6, #ffce1b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #ffffe6, #ffce1b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 	padding: 4em 0;
 }
@@ -1290,6 +1290,9 @@ h3.title {
 .desg{
     color:#ffcb0b;
 }
+}
 
-
+.header_new{
+    width: 20% !important;
+    padding-top: 60px;
 }
